@@ -4,3 +4,5 @@ I used a geographical [dataset](./resources/NYC_Subway_Station_Coordinates.csv) 
 along with the [FourSquare API](https://developer.foursquare.com/places) to:
 * Categorize all stations based upon their surrounding venues.
 * Use k-means clustering to explore possible correlations of interest.
+This information could be useful for city planners to predict the amount of traffic during certain times at
+specific subway stations and their surrounding areas.
