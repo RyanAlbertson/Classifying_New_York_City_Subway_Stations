@@ -8,4 +8,4 @@ along with the [FourSquare API](https://developer.foursquare.com/places) to:
 This information could be useful for city planners to predict the amount of traffic during certain times at
 specific subway stations and their surrounding areas.  
 
-### [CLICK HERE](https://github.com/ryanalbertson/Classifying_New_York_City_Subway_Stations/blob/master/HTML_Link.txt) to view.
+### [CLICK HERE](https://ryanalbertson.github.io/Classifying_New_York_City_Subway_Stations/Classifying%20New%20York%20City%20Subway%20Stations.html) to view.
