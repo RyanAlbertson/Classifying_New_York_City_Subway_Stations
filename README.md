@@ -1,4 +1,6 @@
 _My submission for Coursera's IBM Applied Data Science Capstone course final project._
+[Click here to see more info about the course](https://www.coursera.org/professional-certificates/ibm-data-science#about).
+<hr>
 
 I used a geographical [dataset](./resources/NYC_Subway_Station_Coordinates.csv) of New York City subway stations 
 along with the [FourSquare API](https://developer.foursquare.com/places) to:
